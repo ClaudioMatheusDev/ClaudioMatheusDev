@@ -66,3 +66,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ClaudioMatheusDev/ClaudioMatheusDev/output/snake.svg" alt="Snake animation" />
+
+###
