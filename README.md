@@ -66,3 +66,5 @@
 </div>
 
 ###
+
+# ![snake gif](https://github.com/ClaudioMatheusDev/ClaudioMatheusDev/blob/output/github-contribution-grid-snake.gif)
