@@ -5,7 +5,7 @@
  
 
 
-### Eu sou Claudio Matheus - 🧑🏻‍
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AD09F7&width=435&lines=Eu+sou+Claudio+Matheus+-+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D" alt="Typing SVG" /></a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
 ##### 💻 - Atualmente estou cursando Ciência da Computação- Unifai. 
