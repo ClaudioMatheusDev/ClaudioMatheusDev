@@ -8,23 +8,20 @@
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AD09F7&width=435&lines=Eu+sou+Claudio+Matheus+-+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D" alt="Typing SVG" /></a>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
-##### 💻 - Atualmente estou cursando Ciência da Computação- Unifai. 
+### 🎓 Atualmente estou cursando Ciência da Computação na Unifai, com meu segundo ano de estudo completo.
 
-##### 📑 - Com meu segundo ano de estudo completo, sou apto de: 
+### 📑 Sou apto a:
 
-###### ⭐- Construir, implementar e manter banco de dados. 
+### ⭐ Construir, implementar e manter bancos de dados.
+### ⭐ Desenvolver sistemas para internet utilizando bancos de dados relacionais, com interface para o usuário no servidor.
+### ⭐ Produzir elementos gráficos e desenvolver sites.
+### ⭐ Operar computadores para criar textos técnicos na área de Informática através de pesquisas e análises de informações.
+### ⭐ Pesquisar dados e informações, utilizando o inglês como um dos instrumentos de acesso.
+### ⭐ Projetar e documentar sistemas de informação, selecionando linguagens de programação adequadas às especificidades do projeto.
+### 👅 Habilidades em idiomas: Inglês (intermediário), Espanhol (básico).
 
-###### ⭐- Desenvolver sistemas para internet, utilizando banco de dados relacional com interface para o usuário no servidor, aplicar conhecimentos básicos de protocolos e comunicação de dados.
+### STATUS: Ativamente buscando oportunidades e aprendendo novas habilidades para crescimento na área de tecnologia.
 
-###### ⭐- Desenvolver sites produzindo elementos gráficos. 
-
-###### ⭐- Operar computadores para desenvolver textos técnicos aplicados à área de Informática, através de pesquisas e análises de informação. 
-
-###### ⭐- Pesquisar dados e informações, utilizando a língua inglesa como um dos instrumentos de acesso.
-
-###### ⭐- Projetar e documentar sistemas de informação, selecionando linguagens de programação de acordo com as especificidades do projeto.
-
-##### 👅 - Inglês (Nivel: intermediário) / Espanhol (Nivel: básico)
 
 <h1 align="left">STATUS</h1>
 
