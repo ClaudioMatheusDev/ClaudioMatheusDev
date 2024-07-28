@@ -12,13 +12,13 @@
 
 ### 📑 Sou apto a:
 
-### ⭐ Construir, implementar e manter bancos de dados.
-### ⭐ Desenvolver sistemas para internet utilizando bancos de dados relacionais, com interface para o usuário no servidor.
-### ⭐ Produzir elementos gráficos e desenvolver sites.
-### ⭐ Operar computadores para criar textos técnicos na área de Informática através de pesquisas e análises de informações.
-### ⭐ Pesquisar dados e informações, utilizando o inglês como um dos instrumentos de acesso.
-### ⭐ Projetar e documentar sistemas de informação, selecionando linguagens de programação adequadas às especificidades do projeto.
-### 👅 Habilidades em idiomas: Inglês (intermediário), Espanhol (básico).
+⭐ Construir, implementar e manter bancos de dados.
+⭐ Desenvolver sistemas para internet utilizando bancos de dados relacionais, com interface para o usuário no servidor.
+⭐ Produzir elementos gráficos e desenvolver sites.
+⭐ Operar computadores para criar textos técnicos na área de Informática através de pesquisas e análises de informações.
+⭐ Pesquisar dados e informações, utilizando o inglês como um dos instrumentos de acesso.
+⭐ Projetar e documentar sistemas de informação, selecionando linguagens de programação adequadas às especificidades do projeto.
+👅 Habilidades em idiomas: Inglês (intermediário), Espanhol (básico).
 
 ### STATUS: Ativamente buscando oportunidades e aprendendo novas habilidades para crescimento na área de tecnologia.
 
