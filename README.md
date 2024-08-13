@@ -57,6 +57,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+
+###
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ClaudioMatheusDev&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
+
 ###
 
 <h2 align="left">Social</h2>
