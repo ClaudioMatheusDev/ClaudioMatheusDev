@@ -123,3 +123,5 @@
 ![snake gif](https://github.com/ClaudioMatheusDev/ClaudioMatheusDev/blob/output/github-contribution-grid-snake.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ClaudioMatheusDev&color=blue)
+
+![Meu scorecard](https://raw.githubusercontent.com/Cloutrik/CLKScore/master/docs/certificates/ClaudioMatheusDev.svg)
