@@ -124,4 +124,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ClaudioMatheusDev&color=blue)
 
-![Meu scorecard](https://raw.githubusercontent.com/Cloutrik/CLKScore/master/docs/certificates/ClaudioMatheusDev.svg?v=2)
+![Meu scorecard](https://raw.githubusercontent.com/Cloutrik/CLKScore/master/data/certificates/ClaudioMatheusDev.svg?v=2)
